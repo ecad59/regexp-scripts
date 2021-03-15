@@ -9,7 +9,7 @@ INFOS
 
 BEFORE STARTING
 
-    - Here is my first script posted on github. 
+    - Here is my second script posted on github. 
     - This RegExp was built in my very first month of learning code. 
     - Feel free to comment.
 
